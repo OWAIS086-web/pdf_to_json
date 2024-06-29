@@ -1,0 +1,150 @@
+{
+    "key_value_pairs": {
+        "key_value_page_1": {},
+        "key_value_page_2": {
+            "Name": "_________________",
+            "Signature": "______________",
+            "Date & Time": "___________",
+            "Company": "______________"
+        }
+    },
+    "table_data": {
+        "table_page_1": {
+            "table_1": [
+                {
+                    "Item": "KDU1370093/11",
+                    "Description": "PROCESSOR UNIT/RAN Processor 6651Proces",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NTB1010845/1",
+                    "Description": "QUANTITY PACKAGE/Cable guide",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RPM777528/05000",
+                    "Description": "CABLE WITH CONNECTOR/POWER CABLE",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RPM777567/05000",
+                    "Description": "CABLE WITH CONNECTOR/Grounding Cable",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "SXK111539/1",
+                    "Description": "MOUNTING SET/RACK SCREW KIT",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RPM2533512/10M",
+                    "Description": "2F LC-LC SM 10M",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RDH10265/3",
+                    "Description": "SFP CPRI & 10GBase-LR 10km 1310nm -40/",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RPM777381/02000",
+                    "Description": "Signal Cable (Use SP-RPM 777 381/02000 f",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "KRD901242/11",
+                    "Description": "RADIO UNIT/AIR 6419 B78Y;Radio Unit",
+                    "Quantity": "3",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NFS89990/11050",
+                    "Description": "CIRCUIT BREAKER/50A1p",
+                    "Quantity": "3",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "SXK1092016/1",
+                    "Description": "AIR Light, wall and pole mount bracket w",
+                    "Quantity": "3",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RPM1192062/5",
+                    "Description": "16mm2, GNYE, 5m, 1 lug with 2 M6 holes,",
+                    "Quantity": "3",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RNT44737/01",
+                    "Description": "Circular Power Connector 2-pos 25-16mm2",
+                    "Quantity": "3",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NFS89990/11025",
+                    "Description": "CIRCUIT BREAKER/25A;1p",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "TFL492526/500M",
+                    "Description": "2x16mm2 DC Power Cable No CPR No UL",
+                    "Quantity": "165",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RPM2531610/70M",
+                    "Description": "2F LC(FullAXS)-LC SM, 70 m",
+                    "Quantity": "6",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "RDH10275/2",
+                    "Description": "SFP28 25GBASE-LR Lite",
+                    "Quantity": "12",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NTB1010381/2",
+                    "Description": "Marking Set Main Remote 3-Sector",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NTM2013728/1",
+                    "Description": "Support kit for Tower/mast",
+                    "Quantity": "2",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NTM2014156/3",
+                    "Description": "SET OF MATERIALS/Fiber Clamp 3 fiber-3",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "SET145095/457",
+                    "Description": "Tie Strap W9.5mm L457mm Plastic/Met",
+                    "Quantity": "50",
+                    "Drop ID": "PL00000410"
+                },
+                {
+                    "Item": "NTM2012426",
+                    "Description": "Sealing Set Feeder Connectors",
+                    "Quantity": "1",
+                    "Drop ID": "PL00000410"
+                }
+            ]
+        },
+        "table_page_2": {}
+    }
+}

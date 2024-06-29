@@ -1,0 +1,625 @@
+{
+    "key_value_pairs": {
+        "key_value_page_1": {
+            "Ship to": "EMIRATES INTEGRATED TELECOM CO.PJSC ( EITC ) Packing slip/Shipment no.",
+            "Site code": "KFN2831 21134727 From",
+            "Date": "Mobile",
+            "Contact": "Omar Yasser Contact",
+            "Company": "HUAWEI Tel./Mobile",
+            "Requestor": "Jalal",
+            "Reciever name": "I.D. no."
+        },
+        "key_value_page_2": {
+            "Ship to": "EMIRATES INTEGRATED TELECOM CO.PJSC ( EITC ) Packing slip/Shipment no.",
+            "Site code": "RAK2897 21134697 From",
+            "Date": "Mobile",
+            "Contact": "Omar Yasser Contact",
+            "Company": "HUAWEI Tel./Mobile",
+            "Requestor": "Jalal",
+            "Reciever name": "I.D. no."
+        },
+        "key_value_page_3": {
+            "Ship to": "EMIRATES INTEGRATED TELECOM CO.PJSC ( EITC ) Packing slip/Shipment no.",
+            "Site code": "RAK2721 21134710 From",
+            "Date": "Mobile",
+            "Contact": "Omar Yasser Contact",
+            "Company": "HUAWEI Tel./Mobile",
+            "Requestor": "Jalal",
+            "Reciever name": "I.D. no."
+        },
+        "key_value_page_4": {
+            "Ship to": "EMIRATES INTEGRATED TELECOM CO.PJSC ( EITC ) Packing slip/Shipment no.",
+            "Site code": "FUJ2413 21135421 From",
+            "Date": "Mobile",
+            "Contact": "Omar Yasser Contact",
+            "Company": "HUAWEI Tel./Mobile",
+            "Requestor": "Jalal",
+            "Reciever name": "I.D. no."
+        },
+        "key_value_page_5": {
+            "Ship to": "EMIRATES INTEGRATED TELECOM CO.PJSC ( EITC ) Packing slip/Shipment no.",
+            "Site code": "KFN3675 21135425 From",
+            "Date": "Mobile",
+            "Contact": "Omar Yasser Contact",
+            "Company": "HUAWEI Tel./Mobile",
+            "Requestor": "Jalal",
+            "Reciever name": "I.D. no."
+        },
+        "key_value_page_6": {
+            "Ship to": "EMIRATES INTEGRATED TELECOM CO.PJSC ( EITC ) Packing slip/Shipment no.",
+            "Site code": "FUJ3701 21135428 From",
+            "Date": "Mobile",
+            "Contact": "Omar Yasser Contact",
+            "Company": "HUAWEI Tel./Mobile",
+            "Requestor": "Jalal",
+            "Reciever name": "I.D. no."
+        }
+    },
+    "table_data": {
+        "table_page_1": {
+            "table_1": [
+                {
+                    "Item No": "1",
+                    "DU Part No.": "3021313404",
+                    "COMMSCOPE Part\nNo.": "EGRZZVVQ4-65B-R8",
+                    "Description": "Antenna TDD/FDD 8T8R Mid Gain (Qty)",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110568",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "2",
+                    "DU Part No.": "3092449270",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-5M",
+                    "Description": "Jumper cable 5.0m 4.3-10-male/4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110568",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "3",
+                    "DU Part No.": "3035131305",
+                    "COMMSCOPE Part\nNo.": "F4A-HPHMDM-5M",
+                    "Description": "Jumper 5.0m 4.3.-10 male/DIN male",
+                    "ISSUED\nQTY": "36",
+                    "REQ.\nQTY": "36",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110568",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "4",
+                    "DU Part No.": "3023750398",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-005",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to RRU - 5m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110568",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "5",
+                    "DU Part No.": "3065028745",
+                    "COMMSCOPE Part\nNo.": "MLOC-4-LS2XMHM-3M",
+                    "Description": "4 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110568",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "6",
+                    "DU Part No.": "3076138468",
+                    "COMMSCOPE Part\nNo.": "MLOC-5-LS2XMHM-3M",
+                    "Description": "5 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110568",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "TOTAL",
+                    "DU Part No.": "",
+                    "COMMSCOPE Part\nNo.": "",
+                    "Description": "",
+                    "ISSUED\nQTY": "60",
+                    "REQ.\nQTY": "60",
+                    "UNIT": "",
+                    "Commscope SO no.": "",
+                    "SITE CODE": ""
+                }
+            ],
+            "table_2": [
+                {
+                    "REELS": "BSA",
+                    "0": "1"
+                },
+                {
+                    "REELS": "PALLETS",
+                    "0": "0"
+                },
+                {
+                    "REELS": "CARTONS",
+                    "0": "8"
+                }
+            ],
+            "table_3": []
+        },
+        "table_page_2": {
+            "table_1": [
+                {
+                    "Item No": "1",
+                    "DU Part No.": "3021313404",
+                    "COMMSCOPE Part\nNo.": "EGRZZVVQ4-65B-R8",
+                    "Description": "Antenna TDD/FDD 8T8R Mid Gain (Qty)",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110544",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "2",
+                    "DU Part No.": "3092449270",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-5M",
+                    "Description": "Jumper cable 5.0m 4.3-10-male/4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110544",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "3",
+                    "DU Part No.": "3035131305",
+                    "COMMSCOPE Part\nNo.": "F4A-HPHMDM-5M",
+                    "Description": "Jumper 5.0m 4.3.-10 male/DIN male",
+                    "ISSUED\nQTY": "24",
+                    "REQ.\nQTY": "24",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110544",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "4",
+                    "DU Part No.": "3023750398",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-005",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to RRU - 5m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110544",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "5",
+                    "DU Part No.": "3065028745",
+                    "COMMSCOPE Part\nNo.": "MLOC-4-LS2XMHM-3M",
+                    "Description": "4 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110544",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "6",
+                    "DU Part No.": "3076138468",
+                    "COMMSCOPE Part\nNo.": "MLOC-5-LS2XMHM-3M",
+                    "Description": "5 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110544",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "TOTAL",
+                    "DU Part No.": "",
+                    "COMMSCOPE Part\nNo.": "",
+                    "Description": "",
+                    "ISSUED\nQTY": "48",
+                    "REQ.\nQTY": "48",
+                    "UNIT": "",
+                    "Commscope SO no.": "",
+                    "SITE CODE": ""
+                }
+            ],
+            "table_2": [
+                {
+                    "REELS": "BSA",
+                    "0": "1"
+                },
+                {
+                    "REELS": "PALLETS",
+                    "0": "0"
+                },
+                {
+                    "REELS": "CARTONS",
+                    "0": "6"
+                }
+            ],
+            "table_3": []
+        },
+        "table_page_3": {
+            "table_1": [
+                {
+                    "Item No": "1",
+                    "DU Part No.": "3021313404",
+                    "COMMSCOPE Part\nNo.": "EGRZZVVQ4-65B-R8",
+                    "Description": "Antenna TDD/FDD 8T8R Mid Gain (Qty)",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110557",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "2",
+                    "DU Part No.": "3092449270",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-5M",
+                    "Description": "Jumper cable 5.0m 4.3-10-male/4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110557",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "3",
+                    "DU Part No.": "3035131305",
+                    "COMMSCOPE Part\nNo.": "F4A-HPHMDM-5M",
+                    "Description": "Jumper 5.0m 4.3.-10 male/DIN male",
+                    "ISSUED\nQTY": "36",
+                    "REQ.\nQTY": "36",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110557",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "4",
+                    "DU Part No.": "3023750398",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-005",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to RRU - 5m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110557",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "5",
+                    "DU Part No.": "3065028745",
+                    "COMMSCOPE Part\nNo.": "MLOC-4-LS2XMHM-3M",
+                    "Description": "4 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110557",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "6",
+                    "DU Part No.": "3076138468",
+                    "COMMSCOPE Part\nNo.": "MLOC-5-LS2XMHM-3M",
+                    "Description": "5 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110557",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "TOTAL",
+                    "DU Part No.": "",
+                    "COMMSCOPE Part\nNo.": "",
+                    "Description": "",
+                    "ISSUED\nQTY": "60",
+                    "REQ.\nQTY": "60",
+                    "UNIT": "",
+                    "Commscope SO no.": "",
+                    "SITE CODE": ""
+                }
+            ],
+            "table_2": [
+                {
+                    "REELS": "BSA",
+                    "0": "1"
+                },
+                {
+                    "REELS": "PALLETS",
+                    "0": "0"
+                },
+                {
+                    "REELS": "CARTONS",
+                    "0": "7"
+                }
+            ],
+            "table_3": []
+        },
+        "table_page_4": {
+            "table_1": [
+                {
+                    "Item No": "1",
+                    "DU Part No.": "3092449270",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-5M",
+                    "Description": "Jumper cable 5.0m 4.3-10-male/4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110575",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "2",
+                    "DU Part No.": "3035131305",
+                    "COMMSCOPE Part\nNo.": "F4A-HPHMDM-5M",
+                    "Description": "Jumper 5.0m 4.3.-10 male/DIN male",
+                    "ISSUED\nQTY": "24",
+                    "REQ.\nQTY": "24",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110575",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "3",
+                    "DU Part No.": "3023750398",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-005",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to RRU - 5m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110575",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "4",
+                    "DU Part No.": "3065028745",
+                    "COMMSCOPE Part\nNo.": "MLOC-4-LS2XMHM-3M",
+                    "Description": "4 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110575",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "5",
+                    "DU Part No.": "3076138468",
+                    "COMMSCOPE Part\nNo.": "MLOC-5-LS2XMHM-3M",
+                    "Description": "5 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110575",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "TOTAL",
+                    "DU Part No.": "",
+                    "COMMSCOPE Part\nNo.": "",
+                    "Description": "",
+                    "ISSUED\nQTY": "45",
+                    "REQ.\nQTY": "45",
+                    "UNIT": "",
+                    "Commscope SO no.": "",
+                    "SITE CODE": ""
+                }
+            ],
+            "table_2": [
+                {
+                    "REELS": "BSA",
+                    "0": "0"
+                },
+                {
+                    "REELS": "PALLETS",
+                    "0": "0"
+                },
+                {
+                    "REELS": "CARTONS",
+                    "0": "6"
+                }
+            ],
+            "table_3": []
+        },
+        "table_page_5": {
+            "table_1": [
+                {
+                    "Item No": "1",
+                    "DU Part No.": "3092449270",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-5M",
+                    "Description": "Jumper cable 5.0m 4.3-10-male/4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110583",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "2",
+                    "DU Part No.": "3035131305",
+                    "COMMSCOPE Part\nNo.": "F4A-HPHMDM-5M",
+                    "Description": "Jumper 5.0m 4.3.-10 male/DIN male",
+                    "ISSUED\nQTY": "36",
+                    "REQ.\nQTY": "36",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110583",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "3",
+                    "DU Part No.": "3023750398",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-005",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to RRU - 5m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110583",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "4",
+                    "DU Part No.": "3065028745",
+                    "COMMSCOPE Part\nNo.": "MLOC-4-LS2XMHM-3M",
+                    "Description": "4 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110583",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "5",
+                    "DU Part No.": "3076138468",
+                    "COMMSCOPE Part\nNo.": "MLOC-5-LS2XMHM-3M",
+                    "Description": "5 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110583",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "TOTAL",
+                    "DU Part No.": "",
+                    "COMMSCOPE Part\nNo.": "",
+                    "Description": "",
+                    "ISSUED\nQTY": "57",
+                    "REQ.\nQTY": "57",
+                    "UNIT": "",
+                    "Commscope SO no.": "",
+                    "SITE CODE": ""
+                }
+            ],
+            "table_2": [
+                {
+                    "REELS": "BSA",
+                    "0": "0"
+                },
+                {
+                    "REELS": "PALLETS",
+                    "0": "0"
+                },
+                {
+                    "REELS": "CARTONS",
+                    "0": "7"
+                }
+            ],
+            "table_3": []
+        },
+        "table_page_6": {
+            "table_1": [
+                {
+                    "Item No": "1",
+                    "DU Part No.": "3092449270",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-5M",
+                    "Description": "Jumper cable 5.0m 4.3-10-male/4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "2",
+                    "DU Part No.": "3035131305",
+                    "COMMSCOPE Part\nNo.": "F4A-HPHMDM-5M",
+                    "Description": "Jumper 5.0m 4.3.-10 male/DIN male",
+                    "ISSUED\nQTY": "36",
+                    "REQ.\nQTY": "36",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "3",
+                    "DU Part No.": "3023750398",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-005",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to RRU - 5m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "4",
+                    "DU Part No.": "3028124211",
+                    "COMMSCOPE Part\nNo.": "ATCB-DB9-045",
+                    "Description": "RET Cable ASIG 2.0 - Antenna to BTS - 50m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "5",
+                    "DU Part No.": "3095292485",
+                    "COMMSCOPE Part\nNo.": "F4C-HPHMHM-10M",
+                    "Description": "Jumper Cable 10.0m 4.3-10-male/ 4.3-10-male",
+                    "ISSUED\nQTY": "12",
+                    "REQ.\nQTY": "12",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "6",
+                    "DU Part No.": "3065028745",
+                    "COMMSCOPE Part\nNo.": "MLOC-4-LS2XMHM-3M",
+                    "Description": "4 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "7",
+                    "DU Part No.": "3076138468",
+                    "COMMSCOPE Part\nNo.": "MLOC-5-LS2XMHM-3M",
+                    "Description": "5 Core Cluster Jumper - 3m",
+                    "ISSUED\nQTY": "3",
+                    "REQ.\nQTY": "3",
+                    "UNIT": "EA",
+                    "Commscope SO no.": "5110588",
+                    "SITE CODE": ""
+                },
+                {
+                    "Item No": "TOTAL",
+                    "DU Part No.": "",
+                    "COMMSCOPE Part\nNo.": "",
+                    "Description": "",
+                    "ISSUED\nQTY": "72",
+                    "REQ.\nQTY": "72",
+                    "UNIT": "",
+                    "Commscope SO no.": "",
+                    "SITE CODE": ""
+                }
+            ],
+            "table_2": [
+                {
+                    "REELS": "BSA",
+                    "0": "0"
+                },
+                {
+                    "REELS": "PALLETS",
+                    "0": "0"
+                },
+                {
+                    "REELS": "CARTONS",
+                    "0": "10"
+                }
+            ],
+            "table_3": []
+        }
+    }
+}
